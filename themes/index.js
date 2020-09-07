@@ -29,6 +29,12 @@ const themes = {
     text_color: "68b587",
     bg_color: "0a0f0b",
   },
+  classmates: {
+    title_color: "EE8C03",
+    icon_color: "EE8C03",
+    text_color: "EE8C03",
+    bg_color: "282a36",
+  },
   gruvbox: {
     title_color: "fabd2f",
     icon_color: "fe8019",
